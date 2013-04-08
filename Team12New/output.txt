@@ -1,0 +1,3 @@
+returnTable.userID	 |userprofile.smoker	 |userprofile.drink_level	 |userprofile.dress_preference	 |userprofile.ambience	 |userprofile.transport	 |userprofile.marital_status	 |userprofile.birth_year	 |
+String	 |String	 |String	 |String	 |String	 |String	 |String	 |Int	 |
+U1008	|FALSE	|social drinker	|formal	|solitary	|public	|single	|1989	|
